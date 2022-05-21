@@ -13,6 +13,6 @@ A command-line interface application that is used to find the quickest package d
 
 ## Navigation
 
-## Takeaways
+## Reflection
 
 ## Links
