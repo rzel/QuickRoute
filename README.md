@@ -14,7 +14,7 @@ The program provides a route for packages to get to their destinations as quickl
 
 ## Navigation
 Run the program from 'main.py'. In the terminal:
-_Make a selection_
+  **Make a selection**
 - [1] to check on the status of s pecific package, 
   - Enter the package ID to check the status of
   - Enter the time to check the status of the specific package in HH:MM:SS format
