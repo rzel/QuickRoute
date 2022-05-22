@@ -2,12 +2,12 @@ import csv
 import datetime
 
 # Reads data from CSV file
-with open('Data/distance_data.csv') as distance_file:
+with open('distance_data.csv') as distance_file:
     read_distances = csv.reader(distance_file, delimiter=',')
     read_distances = list(read_distances)
 
 # Reads data from CSV file
-with open('Data/address_data.csv') as address_file:
+with open('address_data.csv') as address_file:
     read_addresses = csv.reader(address_file, delimiter=',')
     read_addresses = list(read_addresses)
 
@@ -95,7 +95,7 @@ with open('Data/address_data.csv') as address_file:
     # Uses three parameters:
     # (1) list of packages on a truck that has not been optimized yet
     # (2) truck numbers
-    # (3) the current location that is updated each time the truck moves
+    # (3) The current location that is updated each time the truck moves.
 
     # To find the shortest route, the first 'for loop' will cycle until the lowest value is found.
     # Once the lowest value is decided, the second 'for loop' will check which truck the package is associated with.

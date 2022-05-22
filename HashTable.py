@@ -50,6 +50,7 @@ class HashTable:
                 return True
         return False
 
+
 class HashTableEntry:
     def __init__(self, key, item):
         self.key = key

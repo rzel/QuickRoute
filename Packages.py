@@ -157,7 +157,6 @@ for index in range(len(truck3_index_optimized())):
     except IndexError:
         pass
 
-
 # Time complexity is 0(1)
 def get_total_distance():
     total_distance = first_truck_total_distance + second_truck_total_distance + third_truck_total_distance
