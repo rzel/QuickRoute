@@ -1,6 +1,9 @@
 # QuickRoute
 A command-line interface application that is used to find the quickest package delivery route.
-<img src="demo.gif" />  
+
+<p align="center">
+  <img src="demo.gif" />  
+</p>
 
 ---
 ## What is it?
