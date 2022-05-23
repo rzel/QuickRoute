@@ -1,6 +1,6 @@
 # QuickRoute
 A command-line interface application that is used to find the quickest package delivery route.
-
+<img src="demo.gif" />
 ---
 ## What is it?
 The program provides a route for packages to get to their destinations as quickly as possible, while having to deliever through specified cities, multiple trucks, and 
